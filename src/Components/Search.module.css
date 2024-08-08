@@ -1,0 +1,24 @@
+.box {
+  /* border-radius: 34px;
+  background: linear-gradient(145deg, #958273, #b29a89);
+  box-shadow: 5px 5px 10px #6e5f54, -5px -5px 10px #dec1ac;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 700px;
+  padding: 20px;
+  height: 40px;
+  align-items: center; */
+  margin: 20px auto;
+  width: 300px;
+  position: relative;
+}
+
+.input {
+  height: 40px;
+  border: none;
+  border-bottom: 1px solid #e3e4dc;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+}
